@@ -23,5 +23,3 @@
 - 新增第二次 master
 - 新增第四次 master
 
-> this is tip ! 
-> new tips !
