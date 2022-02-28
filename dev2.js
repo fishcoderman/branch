@@ -3,8 +3,3 @@
 // dev2第1次提交
 
 // dev2第2次提交
-
-/**
- * Git dev2 commit
- * dev second  commit
- */
