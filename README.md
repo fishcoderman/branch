@@ -8,7 +8,7 @@
 
 ### 问题记录
 
-- 1.回滚 merge 的提交 dev
+- 1.回滚 merge 的提交 dev1
 
 - 2.回滚 checkout 和 reset 的区别
 
